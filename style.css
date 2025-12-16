@@ -1609,6 +1609,14 @@ footer {
     line-height: 1.25;
   }
 
+  @media (min-width: 481px){
+
+  }
+
+  @media (min-width: 769){
+  
+  }
+
   .container {
     padding: 80px 0;
   }
